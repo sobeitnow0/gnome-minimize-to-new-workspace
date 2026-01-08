@@ -1,0 +1,7 @@
+{
+  "name": "Minimize to New Workspace",
+  "description": "Move janelas minimizadas para um novo workspace e as devolve à origem ao restaurar.",
+  "uuid": "minimize-to-new-workspace@amilcar.user",
+  "shell-version": [ "45", "46", "47", "49" ],
+  "url": "https://github.com/seu-usuario/minimize-ext"
+}
